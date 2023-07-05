@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piconina
+- 👋 Hi, I’m Lorena.
 - 👀 I’m interested in games, coding and front-end.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on beginner projects.
